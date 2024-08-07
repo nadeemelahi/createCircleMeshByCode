@@ -1,2 +1,2 @@
 # createCircleMeshByCode
-Learn how to code a mesh - ex) coding a circle mesh 
+Learn how to code a mesh in blender python - ex) coding a circle mesh 
